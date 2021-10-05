@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.exe
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.deps.json
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.runtimeconfig.json
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.runtimeconfig.dev.json
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.dll
+C:\Users\User\source\repos\usdToBgn\fishTank\bin\Debug\netcoreapp3.1\fishTank.pdb
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.AssemblyInfo.cs
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.dll
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.pdb
+C:\Users\User\source\repos\usdToBgn\fishTank\obj\Debug\netcoreapp3.1\fishTank.genruntimeconfig.cache

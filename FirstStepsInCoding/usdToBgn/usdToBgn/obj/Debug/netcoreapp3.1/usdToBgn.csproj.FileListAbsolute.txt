@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfo.cs
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.exe
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.deps.json
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.json
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.dev.json
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\User\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\User\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.genruntimeconfig.cache
