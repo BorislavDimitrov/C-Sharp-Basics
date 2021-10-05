@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.exe
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.deps.json
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.runtimeconfig.json
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.runtimeconfig.dev.json
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.dll
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\bin\Debug\netcoreapp3.1\yardGreening.pdb
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.AssemblyInfo.cs
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.dll
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.pdb
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.genruntimeconfig.cache
+C:\Users\User\source\repos\FirstStepInCoding\yardGreening\obj\Debug\netcoreapp3.1\yardGreening.csproj.AssemblyReference.cache

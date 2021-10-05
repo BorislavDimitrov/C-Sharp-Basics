@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.exe
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.deps.json
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.runtimeconfig.json
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.runtimeconfig.dev.json
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.dll
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\bin\Debug\netcoreapp3.1\inchesToCantimeters.pdb
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.AssemblyInfo.cs
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.dll
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.pdb
+C:\Users\User\source\repos\FirstStepInCoding\inchesToCantimeters\obj\Debug\netcoreapp3.1\inchesToCantimeters.genruntimeconfig.cache

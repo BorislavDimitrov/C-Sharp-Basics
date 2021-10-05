@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.exe
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.deps.json
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.runtimeconfig.json
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.runtimeconfig.dev.json
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.dll
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\bin\Debug\netcoreapp3.1\projectCreation.pdb
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.AssemblyInfo.cs
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.dll
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.pdb
+C:\Users\User\source\repos\FirstStepInCoding\projectCreation\obj\Debug\netcoreapp3.1\projectCreation.genruntimeconfig.cache
