@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.exe
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.deps.json
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.runtimeconfig.json
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.dll
+C:\Users\User\source\repos\ExcellentResult\Number100To200\bin\Debug\netcoreapp3.1\Number100To200.pdb
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.AssemblyInfo.cs
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.dll
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.pdb
+C:\Users\User\source\repos\ExcellentResult\Number100To200\obj\Debug\netcoreapp3.1\Number100To200.genruntimeconfig.cache
