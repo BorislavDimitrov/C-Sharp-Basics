@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\User\source\repos\MatchTickets\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\User\source\repos\MatchTickets\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

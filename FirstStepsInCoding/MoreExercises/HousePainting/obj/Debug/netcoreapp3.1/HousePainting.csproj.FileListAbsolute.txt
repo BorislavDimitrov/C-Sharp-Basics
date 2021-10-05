@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.exe
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.deps.json
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.json
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.runtimeconfig.dev.json
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.dll
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\bin\Debug\netcoreapp3.1\HousePainting.pdb
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.AssemblyInfo.cs
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.dll
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.pdb
+C:\Users\User\source\repos\TrapezoidArea\HousePainting\obj\Debug\netcoreapp3.1\HousePainting.genruntimeconfig.cache

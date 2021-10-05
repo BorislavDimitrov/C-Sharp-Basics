@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.exe
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.deps.json
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.json
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.dev.json
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.dll
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.pdb
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfo.cs
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.dll
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.pdb
+C:\Users\User\source\repos\TrapezoidArea\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.genruntimeconfig.cache

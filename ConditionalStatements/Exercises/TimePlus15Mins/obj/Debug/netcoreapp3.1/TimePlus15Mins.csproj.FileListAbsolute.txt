@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.exe
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.deps.json
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.runtimeconfig.json
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.runtimeconfig.dev.json
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.dll
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\bin\Debug\netcoreapp3.1\TimePlus15Mins.pdb
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.AssemblyInfo.cs
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.dll
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.pdb
+C:\Users\User\source\repos\SumSeconds\TimePlus15Mins\obj\Debug\netcoreapp3.1\TimePlus15Mins.genruntimeconfig.cache

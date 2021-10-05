@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.exe
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.deps.json
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.json
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.dev.json
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.dll
+C:\Users\User\source\repos\MatchTickets\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.pdb
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfo.cs
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.dll
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.pdb
+C:\Users\User\source\repos\MatchTickets\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.genruntimeconfig.cache

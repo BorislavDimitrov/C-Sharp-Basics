@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\DayOfWeek\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DayOfWeek\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Users\User\source\repos\DayOfWeek\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache

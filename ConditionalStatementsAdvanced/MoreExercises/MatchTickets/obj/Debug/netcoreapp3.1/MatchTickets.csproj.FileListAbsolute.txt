@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.exe
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.deps.json
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.json
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.runtimeconfig.dev.json
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Users\User\source\repos\MatchTickets\MatchTickets\bin\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.AssemblyInfo.cs
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.dll
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.pdb
+C:\Users\User\source\repos\MatchTickets\MatchTickets\obj\Debug\netcoreapp3.1\MatchTickets.genruntimeconfig.cache

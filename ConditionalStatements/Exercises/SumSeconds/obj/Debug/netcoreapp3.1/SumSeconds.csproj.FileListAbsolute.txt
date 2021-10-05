@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\User\source\repos\SumSeconds\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\User\source\repos\SumSeconds\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\User\source\repos\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\User\source\repos\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache

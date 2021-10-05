@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.exe
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.deps.json
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.json
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.dev.json
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.dll
+C:\Users\User\source\repos\MatchTickets\Flowers\bin\Debug\netcoreapp3.1\Flowers.pdb
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfo.cs
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.dll
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.pdb
+C:\Users\User\source\repos\MatchTickets\Flowers\obj\Debug\netcoreapp3.1\Flowers.genruntimeconfig.cache

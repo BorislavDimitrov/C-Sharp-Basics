@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.exe
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.deps.json
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.json
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.dev.json
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfo.cs
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.dll
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.pdb
+C:\Users\User\source\repos\DayOfWeek\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.genruntimeconfig.cache

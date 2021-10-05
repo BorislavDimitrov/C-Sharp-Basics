@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\User\source\repos\Cinema\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+C:\Users\User\source\repos\Cinema\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache
