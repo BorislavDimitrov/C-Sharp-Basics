@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\User\source\repos\NumbersFrom1To100\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.exe
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.deps.json
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.runtimeconfig.json
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.dll
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\bin\Debug\netcoreapp3.1\OddEvenPossition.pdb
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.AssemblyInfo.cs
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.dll
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.pdb
+C:\Users\User\source\repos\NumbersEndingIn7\OddEvenPossition\obj\Debug\netcoreapp3.1\OddEvenPossition.genruntimeconfig.cache

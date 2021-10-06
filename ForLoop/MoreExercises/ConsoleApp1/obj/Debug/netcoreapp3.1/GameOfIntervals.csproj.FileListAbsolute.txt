@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.exe
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.deps.json
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.json
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.dev.json
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.dll
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\bin\Debug\netcoreapp3.1\GameOfIntervals.pdb
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfo.cs
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.dll
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.pdb
+C:\Users\User\source\repos\BackToThePast\ConsoleApp1\obj\Debug\netcoreapp3.1\GameOfIntervals.genruntimeconfig.cache

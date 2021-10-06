@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\User\source\repos\NumbersEndingIn7\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

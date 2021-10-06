@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.exe
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.deps.json
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.json
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.dev.json
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\User\source\repos\BackToThePast\Logistics\bin\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfo.cs
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.dll
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.pdb
+C:\Users\User\source\repos\BackToThePast\Logistics\obj\Debug\netcoreapp3.1\Logistics.genruntimeconfig.cache

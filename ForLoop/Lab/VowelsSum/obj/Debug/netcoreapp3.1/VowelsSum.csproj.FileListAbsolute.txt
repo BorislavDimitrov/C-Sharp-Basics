@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.exe
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.deps.json
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.json
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfo.cs
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\User\source\repos\NumbersFrom1To100\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.exe
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.deps.json
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.dll
+C:\Users\User\source\repos\BackToThePast\Grades\bin\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.dll
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.pdb
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache
+C:\Users\User\source\repos\BackToThePast\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.AssemblyReference.cache
