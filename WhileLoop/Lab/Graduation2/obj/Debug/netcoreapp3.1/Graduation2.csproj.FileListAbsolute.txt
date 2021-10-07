@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.exe
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.deps.json
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.json
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.dev.json
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.dll
+C:\Users\User\source\repos\ReadText\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.pdb
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfo.cs
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.dll
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.pdb
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.genruntimeconfig.cache
+C:\Users\User\source\repos\ReadText\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csproj.AssemblyReference.cache

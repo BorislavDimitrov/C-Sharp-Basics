@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.exe
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.deps.json
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.json
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.dev.json
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.dll
+C:\Users\User\source\repos\DishWasher\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.pdb
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.dll
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.pdb
+C:\Users\User\source\repos\DishWasher\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.genruntimeconfig.cache

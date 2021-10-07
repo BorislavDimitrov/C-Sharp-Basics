@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.exe
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.deps.json
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.json
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.dev.json
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.dll
+C:\Users\User\source\repos\ReadText\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.pdb
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfo.cs
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.dll
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.pdb
+C:\Users\User\source\repos\ReadText\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.genruntimeconfig.cache

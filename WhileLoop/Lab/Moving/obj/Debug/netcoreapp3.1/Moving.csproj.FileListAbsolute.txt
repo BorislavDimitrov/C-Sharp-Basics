@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+C:\Users\User\source\repos\ReadText\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+C:\Users\User\source\repos\ReadText\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

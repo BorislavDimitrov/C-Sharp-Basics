@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.exe
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.deps.json
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.json
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\User\source\repos\ReadText\MaxNumber\bin\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.dll
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.pdb
+C:\Users\User\source\repos\ReadText\MaxNumber\obj\Debug\netcoreapp3.1\MaxNumber.genruntimeconfig.cache

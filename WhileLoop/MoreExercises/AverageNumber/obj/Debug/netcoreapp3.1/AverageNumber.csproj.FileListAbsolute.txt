@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.exe
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.deps.json
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.json
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.dll
+C:\Users\User\source\repos\DishWasher\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.pdb
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.dll
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.pdb
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.genruntimeconfig.cache
+C:\Users\User\source\repos\DishWasher\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.csproj.AssemblyReference.cache
