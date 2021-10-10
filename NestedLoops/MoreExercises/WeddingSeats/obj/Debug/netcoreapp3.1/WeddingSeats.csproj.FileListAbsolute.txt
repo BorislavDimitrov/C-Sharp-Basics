@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.exe
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.deps.json
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.runtimeconfig.json
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.runtimeconfig.dev.json
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.dll
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\bin\Debug\netcoreapp3.1\WeddingSeats.pdb
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.AssemblyInfo.cs
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.dll
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.pdb
+C:\Users\User\source\repos\UniquePinCodes\WeddingSeats\obj\Debug\netcoreapp3.1\WeddingSeats.genruntimeconfig.cache

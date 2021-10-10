@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.exe
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.deps.json
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.json
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.runtimeconfig.dev.json
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\bin\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.AssemblyInfo.cs
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.dll
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.pdb
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.genruntimeconfig.cache
+C:\Users\User\source\repos\UniquePinCodes\ChallengeTheWedding\obj\Debug\netcoreapp3.1\ChallengeTheWedding.csproj.AssemblyReference.cache

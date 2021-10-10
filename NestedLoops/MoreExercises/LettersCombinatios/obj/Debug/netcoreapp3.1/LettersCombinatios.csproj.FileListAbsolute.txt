@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.exe
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.deps.json
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.runtimeconfig.json
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.runtimeconfig.dev.json
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.dll
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\bin\Debug\netcoreapp3.1\LettersCombinatios.pdb
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.AssemblyInfo.cs
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.dll
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.pdb
+C:\Users\User\source\repos\UniquePinCodes\LettersCombinatios\obj\Debug\netcoreapp3.1\LettersCombinatios.genruntimeconfig.cache

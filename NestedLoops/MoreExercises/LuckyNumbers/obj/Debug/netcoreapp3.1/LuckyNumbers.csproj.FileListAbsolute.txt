@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.exe
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.deps.json
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.json
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.dll
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\bin\Debug\netcoreapp3.1\LuckyNumbers.pdb
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.dll
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.pdb
+C:\Users\User\source\repos\UniquePinCodes\LuckyNumbers\obj\Debug\netcoreapp3.1\LuckyNumbers.genruntimeconfig.cache

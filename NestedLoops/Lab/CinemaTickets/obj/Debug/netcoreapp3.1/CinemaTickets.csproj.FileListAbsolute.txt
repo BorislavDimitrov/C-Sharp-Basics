@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.exe
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.deps.json
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.json
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.dev.json
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\User\source\repos\Clock\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.pdb
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfo.cs
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.dll
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.pdb
+C:\Users\User\source\repos\Clock\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.genruntimeconfig.cache
