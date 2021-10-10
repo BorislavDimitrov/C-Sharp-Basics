@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.exe
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.deps.json
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.runtimeconfig.json
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.dll
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\bin\Debug\netcoreapp3.1\trainTheTrainers.pdb
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.AssemblyInfo.cs
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.dll
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.pdb
+C:\Users\User\source\repos\NumberPyramid\trainTheTrainers\obj\Debug\netcoreapp3.1\trainTheTrainers.genruntimeconfig.cache

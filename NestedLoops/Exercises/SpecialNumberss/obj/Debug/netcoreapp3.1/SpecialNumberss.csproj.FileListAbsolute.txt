@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.exe
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.deps.json
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.runtimeconfig.json
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.dll
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\bin\Debug\netcoreapp3.1\SpecialNumberss.pdb
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.AssemblyInfo.cs
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.dll
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.pdb
+C:\Users\User\source\repos\NumberPyramid\SpecialNumberss\obj\Debug\netcoreapp3.1\SpecialNumberss.genruntimeconfig.cache

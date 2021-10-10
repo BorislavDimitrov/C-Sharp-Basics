@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.exe
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.deps.json
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.json
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.dev.json
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.dll
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.pdb
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfo.cs
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.dll
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.pdb
+C:\Users\User\source\repos\NumberPyramid\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.genruntimeconfig.cache
